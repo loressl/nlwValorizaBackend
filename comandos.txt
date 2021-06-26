@@ -1,0 +1,8 @@
+-criar migration
+yarn typeorm migration:create -n CreateUsers
+-rodar tabela
+yarn typeorm migration:run
+-revert migration
+yarn typeorm migration:revert
+-criar as entities
+yarn typeorm entity:create -n NomedaEntidade
