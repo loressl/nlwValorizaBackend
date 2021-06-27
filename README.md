@@ -19,4 +19,4 @@
 
     [ ] O usuário precisa está autenticado na aplicação.
 
-Documentação: https://documenter.getpostman.com/view/5841921/Tzedi585
+![Documentação da API](https://documenter.getpostman.com/view/5841921/Tzedi585)
