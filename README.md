@@ -16,7 +16,6 @@
 - Cadastro de elogios
 - [x] Não é permitido o usuário cadastrar um elogio para si.
 - [x] Não é permitido cadastrar elogios para usuários inválidos.
-
-    [ ] O usuário precisa está autenticado na aplicação.
+- [x] O usuário precisa está autenticado na aplicação.
 
 ![Documentação da API](https://documenter.getpostman.com/view/5841921/Tzedi585)
