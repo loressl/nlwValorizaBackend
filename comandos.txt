@@ -6,3 +6,5 @@ yarn typeorm migration:run
 yarn typeorm migration:revert
 -criar as entities
 yarn typeorm entity:create -n NomedaEntidade
+-add coluna password
+yarn typeorm migration:create -n AlterUserAddPassword
